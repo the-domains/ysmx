@@ -1,0 +1,23 @@
+name: YSMX
+favicon: null
+layout_spectrum: 0.44217255990952253
+typography_spectrum: 0.24099196796305478
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.03075632336549461
+  lightness: 0.6881757471710443
+  saturation: 0.697589555522427
+  rhythmicContrast: 0.9151689803693444
+purpose: []
