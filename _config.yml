@@ -1,6 +1,6 @@
 name: YSMX
 favicon: null
-layout_spectrum: 0.51237
+layout_spectrum: 1
 typography_spectrum: 0.24099196796305478
 title: YSMX
 cta:
@@ -17,7 +17,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.03075632336549461
+  brandStrength: 0
   lightness: 0.6881757471710443
   saturation: 0.697589555522427
   rhythmicContrast: 0.9151689803693444
